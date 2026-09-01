@@ -1,0 +1,11 @@
+{
+  "format": "ufb-combined-datapack",
+  "version": 1,
+  "name": "University Football Required Data Pack",
+  "contents": {
+    "teams": "data/teams.json",
+    "rosters": "data/rosters.json",
+    "logos": "data/logos/",
+    "audio": "audio/"
+  }
+}
