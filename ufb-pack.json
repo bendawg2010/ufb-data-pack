@@ -1,6 +1,6 @@
 {
   "format": "ufb-combined-datapack",
-  "version": 1,
+  "version": 2,
   "name": "University Football Required Data Pack",
   "contents": {
     "teams": "data/teams.json",
